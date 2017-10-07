@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Ui_review</string>
+    <string name="button_clicked_msg_1">Button 1 clicked</string>
+    <string name="button_clicked_msg_2">Button 2 clicked</string>
+    <string name="button_clicked_msg_3">Button 3 clicked</string>
+    <string name="button_clicked_msg_4">Button 4 clicked</string>
+    <string name="button_clicked_msg_5">Button 5 clicked</string>
+    <string name="button_clicked_msg_6">Button 6 clicked</string>
+</resources>
