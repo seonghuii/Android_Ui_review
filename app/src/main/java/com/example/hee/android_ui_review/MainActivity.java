@@ -73,6 +73,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        /*
+           public void OnClickB5(View v) {
+       LinearLayout layout = (LinearLayout) findViewById(R.id.layout2);
+       layout.setGravity(Gravity.CENTER_HORIZONTAL);
+        */
+
         //btn6
         Button btn6 = (Button) findViewById(R.id.button6);
         btn6.setOnClickListener(new View.OnClickListener() {
@@ -83,6 +89,12 @@ public class MainActivity extends AppCompatActivity {
                 layout.setPadding(20,20,20,20);
             }
         });
+        /*
+        public void OnClickB6(View v) {
+        LinearLayout layout = (LinearLayout) findViewById(R.id.layout2);
+        layout.setPadding(20,20,20,20);
+    }
+        */
     }
 }
 
